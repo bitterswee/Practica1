@@ -1,2 +1,2 @@
 # Practica1
-Repositorio
+Pratica 1 fundamentos de programación 
